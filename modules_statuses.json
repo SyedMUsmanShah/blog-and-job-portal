@@ -1,0 +1,10 @@
+{
+    "Article": true,
+    "Tag": true,
+    "Comment": true,
+    "Job": true,
+    "Application": true,
+    "Blog": true,
+    "Static": true,
+    "Metric": true
+}

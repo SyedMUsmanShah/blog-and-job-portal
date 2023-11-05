@@ -1,0 +1,13 @@
+{
+    "name": "Metric",
+    "alias": "metric",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Metric\\Providers\\MetricServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
